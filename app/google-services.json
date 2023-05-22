@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1009966039148",
+    "project_id": "glamor-vpn",
+    "storage_bucket": "glamor-vpn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009966039148:android:a7ce1bce0701253e7c1849",
+        "android_client_info": {
+          "package_name": "com.lockysoft.glamorvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009966039148-0bp98kfg7soj6no75mgegpf9l0qe03o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVRw1eYofdQepLL3An7UF_D_W60GVcRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009966039148-0bp98kfg7soj6no75mgegpf9l0qe03o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009966039148:android:386d16da5a8f33de7c1849",
+        "android_client_info": {
+          "package_name": "com.lockysoft.glamorvpn2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009966039148-0bp98kfg7soj6no75mgegpf9l0qe03o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVRw1eYofdQepLL3An7UF_D_W60GVcRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009966039148-0bp98kfg7soj6no75mgegpf9l0qe03o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
